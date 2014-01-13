@@ -1,0 +1,35 @@
+DELAY 30000
+GUI R
+DELAY 200
+STRING outlook -c ipm.note -m luisco100@gmail.com;arlettesoft@gmail.com
+ENTER
+DELAY 3000
+STRING Hoy invito el cafesito
+DELAY 200
+TAB
+DELAY 100
+ENTER
+STRING Buen dia,
+DELAY 100
+ENTER
+ENTER
+STRING Este dia invito a toda la jefatura a un rico cafe
+DELAY 100
+ENTER
+ENTER
+STRING Por favor, no sean timidos
+SHIFT TAB
+DELAY 200
+SHIFT TAB
+DELAY 200
+SHIFT TAB
+DELAY 200
+SHIFT TAB
+DELAY 200
+SHIFT TAB
+DELAY 200
+SHIFT TAB
+DELAY 200
+SHIFT TAB
+DELAY 200
+ENTER
